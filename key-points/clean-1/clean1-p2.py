@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = "../../test/step2/z_output/input_nodes_copy_deployment_000.csv"
+file_path = "../../../../capstone/dataste-generation/cappy-definitive-edition/step2/z_output/input_nodes_copy_deployment_000.csv"
 
 df = pd.read_csv(file_path, delimiter=";")
 df_numeric = df.drop(df.columns[[0, 2]], axis=1)
