@@ -28,4 +28,3 @@ then make a random forest out of it. should work, cuz why not
 | cw_adaptation                  | 0.000000e+00     |
 | cont_wind                      | 0.000000e+00     |
 | cont_wind_stage                | 0.000000e+00     |
-|--------------------------------|------------------|
