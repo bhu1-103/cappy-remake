@@ -31,6 +31,9 @@ for file in csv_files:
     # Manually remove central frequency
     if "central_freq(GHz)" in df.columns:
         zero_variance_cols.append("central_freq(GHz)")
+
+     if "is_ap" in df.columns:
+        zero_variance_cols.append("is_ap")
     
     print(f"Removing columns: {zero_variance_cols}")
 
