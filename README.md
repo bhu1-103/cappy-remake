@@ -4,6 +4,9 @@ patch 2.1
 decision tree
 
 then make a random forest out of it. should work, cuz why not
+
+and then a gradient booster.
+
 | Parameter                      | Value            |
 |--------------------------------|------------------|
 | node_type                      | 6.084448e-02     |
