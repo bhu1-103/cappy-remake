@@ -12,5 +12,23 @@
 
 ## point1
 
+- sir will do this
+
+## point2
+
+- this will be done in the end
+
+## point3
+
+- sir will do this
+- can show covariance between all output variables and hence prove that the 3 parameters are sufficient
+
+## point4
+
+- is this whether komondor is an accurate simulator or not?
+
+## point5
+
+- for this, we can find other projects which use the same model but in a different scenario. justification: `in the end, its just numbers and data, if we get similar data with node and edge properties or pull out something in similar with another project's model, then we can use it for comparison and also prove accordingly that it should work with this data`
 
 [click here to go to og README.md](https://github.com/bhu1-103/cappy-remake/README2.md)
