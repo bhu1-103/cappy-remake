@@ -1,6 +1,6 @@
 # Recommendation for Publication& Detailed Suggestions
 
-[ ] `The problem and objectives are not well presented, and they need to be made more explicit.`
+[ ] - `The problem and objectives are not well presented, and they need to be made more explicit.`
 
 [ ] `The technical presentation needs to be improved:`]
 
