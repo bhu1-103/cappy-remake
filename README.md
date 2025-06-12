@@ -1,8 +1,8 @@
 # Recommendation for Publication& Detailed Suggestions
 
-[ ] - `The problem and objectives are not well presented, and they need to be made more explicit.`
+- [ ] `The problem and objectives are not well presented, and they need to be made more explicit.`
 
-[ ] `The technical presentation needs to be improved:`]
+## - [ ] `The technical presentation needs to be improved:`]
 
 [ ] `How can we justify that only the three parameters considered (Table 4) are sufficient for performance evaluation in a WLAN OBSS?`]
 
